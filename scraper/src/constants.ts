@@ -1,0 +1,1 @@
+export const DEFAULT_SCRAPER_POST_LIMIT = 20;
